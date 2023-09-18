@@ -1,0 +1,35 @@
+ 1 : Stanford University 
+ 4 : Carnegie Mellon Univercity
+ 5 : University of Illinois
+ 7 : Cornell Univercity
+ 8 : Princeton university
+ 14 : California Institute of Tech
+ 14 : Columbia University
+ 17 : Havard University
+ 17 : University of Maryland
+ 17 : University of Pennsylvania
+ 20 : Duke university
+ 20 : Purdue University
+ 20 : Yale university
+ 23 : Johns Hopkins university
+ 24 : Ohio state university
+ 24 : University of Massachusetts
+ 24 : University of North/South carolina
+ 24 : University of Virginia
+ 31 : Brown university
+ 31 : Northwestern university
+ 31 : Rice University
+ 35 : Northeastern university
+ 35 : Penn State
+ 35 : University of Minnesota
+ 35 : Virginia Tech
+ 41 : Rutgers university-New Brunswick
+ 41 : Texas A&M university
+ 41 : University of Utah
+ 41 : Washington university in St. Louis
+ 46 : Stony Brook university
+ 48 : Dartmouth College
+ 50 : Boston university
+ 50 : North carolina state
+ 50 : University of Norte Dorme
+ 50 : Vanderbilt university
